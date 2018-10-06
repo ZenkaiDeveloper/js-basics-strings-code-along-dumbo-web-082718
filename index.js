@@ -2,4 +2,4 @@
 currentUser = "Andy";
 welcomeMessage = "Welcome to Flatbook, " + currentUser + "!";
 excitedWelcomeMessage = welcomeMessage.toUpperCase();
-shortGreeting = "Welcome, " + currentUser[] + "!"
+shortGreeting = "Welcome, " + currentUser[0] + "!"
